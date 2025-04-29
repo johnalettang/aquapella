@@ -1,6 +1,6 @@
 # aquapella
 This repository contains all of the files used in creating the Aquapella gesutral water instrument
-
+<img src="Images/AquapellawithCamera.jpg" alt="Aquapella with Camera" style="width:50%;">
 ## Materials
 - 8 [water level sensors](https://www.amazon.com/WWZMDiB-12PCS-Water-Sensor-Detection/dp/B0BVH1J9J7)
 - 1 [arduino pro micro](https://www.amazon.com/Teyleten-Robot-Atmega32U4-Development-Microcontroller/dp/B0B6HYLC44)
